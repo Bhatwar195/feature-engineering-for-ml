@@ -13,7 +13,7 @@ These techniques can improve model interpretability, reduce the impact of outlie
 - Binarization
 - Equal Width Binning
 - Equal Frequency Binning
-- When and Why to Use Discretization
+
 
 ---
 
